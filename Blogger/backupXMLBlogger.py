@@ -17,7 +17,7 @@ def backupBlogger():
 	browser = webdriver.Chrome()
 
 	alamatURL = 'https://mail.google.com/mail/'
-	alamatBlog = 'https://www.blogger.com/blogger.g?blogID=4855034551840349875#othersettings'
+	alamatBlog = 'https://www.blogger.com/blogger.g?blogID=000000000000000#othersettings'
 
 	browser.get(alamatURL)
 
